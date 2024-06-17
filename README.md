@@ -1,5 +1,7 @@
-my_flask_app
-Overview
+**my_flask_app**
+
+**Overview**
+
 This is a simple Flask application for uploading images and storing them in a MySQL database. The app also uses JWT for authentication.
 
 **Features:**
